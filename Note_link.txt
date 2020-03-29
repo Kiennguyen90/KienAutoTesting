@@ -1,0 +1,5 @@
+https://pixlr.com/e/ : Edit photo
+https://www.gangboard.com/blog/selenium-vs-protractor : Difference between Selenium webdriver and Protractor
+https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm : Install React js using 2 ways
+https://www.youtube.com/watch?v=Qqx_wzMmFeA : javascript tutorial
+https://www.youtube.com/watch?v=DLX62G4lc44&t=778s : reactjs tutorial
